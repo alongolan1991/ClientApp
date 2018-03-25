@@ -1,0 +1,42 @@
+.mySection{
+  width: 1000px;
+  height: 500px;
+  border: solid 1px black;
+  margin: 0px auto;
+  text-align: center;
+  background: white;
+  margin-top: 10%;
+}
+
+.myHeader{
+  font-size: 300%;
+}
+
+.inputNumber{
+width: 50px;
+margin-left: 30px;
+display: inline;
+width: 130px;
+}
+
+.result{
+  display: inline;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.res{
+  font-weight: bold;
+  font-size:150%;
+}
+ body{
+   background: url('../math.jpg') no-repeat;
+   background-size: cover;
+ }
+
+input[type="radio"]{
+  margin-left:10px;
+}
+label{
+  margin-left: 20px;
+}
